@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    position:relative;
+}
+
+header {
+    background-color: #050f6a;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+nav {
+    height: 50px;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #ccc;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav li {
+    margin: 0 10px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+nav a {
+    color: #050f6a;
+    text-decoration: none;
+   
+    }
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #050f6a;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+.collegelogo
+{
+    height: 46px;
+    width: 46px;
+}
+.About
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:x-large;
+    color:black;
+}
+/* .mainbg
+{
+    background-image: url("indexbg.webp");
+} */
+ .indexbg
+{
+ height: fit-content;
+ width: 1500px;
+  
+
+ 
+} 
