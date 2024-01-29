@@ -1,0 +1,64 @@
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\appsettings.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.exe
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.deps.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.runtimeconfig.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.pdb
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.csproj.AssemblyReference.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.AssemblyInfoInputs.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.AssemblyInfo.cs
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets\msbuild.UserAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.UserAPI.props
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserAPI.props
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserAPI.props
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\scopedcss\bundle\UserAPI.styles.css
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.csproj.CopyComplete
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\refint\UserAPI.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.pdb
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.genruntimeconfig.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\ref\UserAPI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\appsettings.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.exe
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.deps.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.runtimeconfig.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\UserAPI.pdb
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.csproj.AssemblyReference.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.AssemblyInfo.cs
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets\msbuild.UserAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.UserAPI.props
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserAPI.props
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserAPI.props
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\scopedcss\bundle\UserAPI.styles.css
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.csproj.CopyComplete
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\refint\UserAPI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.pdb
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\UserAPI.genruntimeconfig.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\UserAPI\obj\Debug\net8.0\ref\UserAPI.dll

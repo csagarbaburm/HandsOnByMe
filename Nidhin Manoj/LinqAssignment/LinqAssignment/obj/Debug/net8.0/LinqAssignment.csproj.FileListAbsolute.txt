@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.exe
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.deps.json
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.runtimeconfig.json
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.dll
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\bin\Debug\net8.0\LinqAssignment.pdb
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.AssemblyInfo.cs
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.dll
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\obj\Debug\net8.0\refint\LinqAssignment.dll
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.pdb
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\obj\Debug\net8.0\LinqAssignment.genruntimeconfig.cache
+C:\Nidhin Manoj\Nidhin Manoj\API\LinqAssignment\LinqAssignment\obj\Debug\net8.0\ref\LinqAssignment.dll

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signup</title>
+</head>
+<body>
+     <div>
+        <form action="">
+        <h5>Fields marked (*) are requierd</h5>
+                    <fieldset style="width: 500px;">
+                <legend style="height: auto; width: auto;">Input Text Field Validation</legend>
+                
+                    FirstName* <input type="text" placeholder="FirstName" pattern="[A-Z][a-z]+" required> <br> <br>
+                    LastName*  <input type="text" placeholder="LastName" pattern="[A-Z][a-z]+" required>
+                
+            </fieldset > <br><br>
+
+            <fieldset style="width: 500px;">
+                <legend style="height: auto; width: auto;">Email and URL Validation</legend>
+                
+                    Email* <input type="email" placeholder="e.g.swapnil@example.com" required> <br> <br>
+                    Website*  <input type="url" placeholder="e.g.http://www.html5andcss3.org" required>
+                
+            </fieldset > <br><br>
+            <fieldset style="width: 500px;">
+                <legend style="height: auto; width: auto;">Mobile or Phone Number Validation</legend>
+              
+                    Mobile* <input type="text" pattern="[6789]{1}[0-9]{9}" placeholder="please enter a ten digit phone number" required> <br> <br>
+
+                    
+            </fieldset > <br> <br>
+
+            <fieldset style="width: 500px;">
+                <legend style="height: auto; width: auto;">Drop Down Box Validation </legend>
+              
+                    Country 
+                    <select name="" id="">
+                        <option value="">India</option>
+                        <option value="">America</option>
+                        <option value="">Japan</option>
+                        <option value="">Africa</option>
+
+                    </select>
+
+               </fieldset>
+
+
+               <fieldset style="width: 500px;">
+                <legend style="height: auto; width: auto;">Number Validation With Specific Range</legend>
+                
+                    PostCode* <input type="text" name="" id="" pattern="[6]{1}[0-9]{5}" required>
+                
+            </fieldset > <br><br>
+
+
+            <fieldset style="width: 500px;">
+                <legend style="height: auto; width: auto;">Textarea Validation</legend>
+                
+                    Address* <textarea name="" id="" cols="30" rows="10" required></textarea> 
+                
+            </fieldset > <br><br>
+           
+
+            <fieldset style="width: 500px;">
+                <legend style="height: auto; width: auto;">CheckBox and Radio Button Validation</legend>
+                
+                    Agree to T & C* <input type="checkbox"> <br> <br>
+                    General*   <input type="radio" name="Gender" id=""> Male
+                <input type="radio" name="Gender" id=""> Female
+                
+            </fieldset > <br><br>
+
+            <fieldset style="width: 500px;">
+            <legend style="height: auto; width: auto;">Password Validation Using Pattern</legend>
+        Password* <input type="password" name="" id="" required>    
+        
+        </fieldset><br> 
+        <input type="submit" value="Signup" name="" id="">
+    </form>
+    </div>
+</body>
+</html>

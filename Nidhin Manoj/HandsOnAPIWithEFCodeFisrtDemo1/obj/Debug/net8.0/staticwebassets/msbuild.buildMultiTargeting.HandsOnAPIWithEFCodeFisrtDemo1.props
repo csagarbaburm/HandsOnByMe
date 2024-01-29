@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HandsOnAPIWithEFCodeFisrtDemo1.props" />
+</Project>

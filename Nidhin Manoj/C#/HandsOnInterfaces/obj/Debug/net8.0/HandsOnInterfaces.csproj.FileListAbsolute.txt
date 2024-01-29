@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\C#\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\C#\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\C#\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.AssemblyInfo.cs
+C:\Nidhin Manoj\C#\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\C#\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.exe
+C:\Nidhin Manoj\C#\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.deps.json
+C:\Nidhin Manoj\C#\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.runtimeconfig.json
+C:\Nidhin Manoj\C#\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.dll
+C:\Nidhin Manoj\C#\HandsOnInterfaces\bin\Debug\net8.0\HandsOnInterfaces.pdb
+C:\Nidhin Manoj\C#\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.dll
+C:\Nidhin Manoj\C#\HandsOnInterfaces\obj\Debug\net8.0\refint\HandsOnInterfaces.dll
+C:\Nidhin Manoj\C#\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.pdb
+C:\Nidhin Manoj\C#\HandsOnInterfaces\obj\Debug\net8.0\HandsOnInterfaces.genruntimeconfig.cache
+C:\Nidhin Manoj\C#\HandsOnInterfaces\obj\Debug\net8.0\ref\HandsOnInterfaces.dll

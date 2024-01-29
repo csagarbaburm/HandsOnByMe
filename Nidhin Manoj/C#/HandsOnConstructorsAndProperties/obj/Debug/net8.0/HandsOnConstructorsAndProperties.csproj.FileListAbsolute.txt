@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.exe
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.deps.json
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.runtimeconfig.json
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.dll
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\bin\Debug\net8.0\HandsOnConstructorsAndProperties.pdb
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.AssemblyInfo.cs
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.dll
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\obj\Debug\net8.0\refint\HandsOnConstructorsAndProperties.dll
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.pdb
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\obj\Debug\net8.0\HandsOnConstructorsAndProperties.genruntimeconfig.cache
+C:\Nidhin Manoj\C#\HandsOnConstructorsAndProperties\obj\Debug\net8.0\ref\HandsOnConstructorsAndProperties.dll

@@ -1,0 +1,6 @@
+@EFBookServiceAPI_HostAddress = http://localhost:5050
+
+GET {{EFBookServiceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

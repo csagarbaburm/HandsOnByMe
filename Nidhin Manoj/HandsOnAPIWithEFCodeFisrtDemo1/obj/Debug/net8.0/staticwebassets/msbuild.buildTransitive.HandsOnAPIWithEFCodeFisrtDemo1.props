@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HandsOnAPIWithEFCodeFisrtDemo1.props" />
+</Project>

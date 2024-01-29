@@ -1,0 +1,6 @@
+@AssignmentModelValidation_HostAddress = http://localhost:5051
+
+GET {{AssignmentModelValidation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

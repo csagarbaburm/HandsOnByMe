@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\C#\HandsOnArray\bin\Debug\net8.0\HandsOnArray.exe
+C:\Nidhin Manoj\C#\HandsOnArray\bin\Debug\net8.0\HandsOnArray.deps.json
+C:\Nidhin Manoj\C#\HandsOnArray\bin\Debug\net8.0\HandsOnArray.runtimeconfig.json
+C:\Nidhin Manoj\C#\HandsOnArray\bin\Debug\net8.0\HandsOnArray.dll
+C:\Nidhin Manoj\C#\HandsOnArray\bin\Debug\net8.0\HandsOnArray.pdb
+C:\Nidhin Manoj\C#\HandsOnArray\obj\Debug\net8.0\HandsOnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\C#\HandsOnArray\obj\Debug\net8.0\HandsOnArray.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\C#\HandsOnArray\obj\Debug\net8.0\HandsOnArray.AssemblyInfo.cs
+C:\Nidhin Manoj\C#\HandsOnArray\obj\Debug\net8.0\HandsOnArray.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\C#\HandsOnArray\obj\Debug\net8.0\HandsOnArray.dll
+C:\Nidhin Manoj\C#\HandsOnArray\obj\Debug\net8.0\refint\HandsOnArray.dll
+C:\Nidhin Manoj\C#\HandsOnArray\obj\Debug\net8.0\HandsOnArray.pdb
+C:\Nidhin Manoj\C#\HandsOnArray\obj\Debug\net8.0\HandsOnArray.genruntimeconfig.cache
+C:\Nidhin Manoj\C#\HandsOnArray\obj\Debug\net8.0\ref\HandsOnArray.dll

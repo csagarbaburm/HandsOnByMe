@@ -1,0 +1,96 @@
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.AssemblyReference.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.AssemblyInfoInputs.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.AssemblyInfo.cs
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.CoreCompileInputs.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\appsettings.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.exe
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.deps.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.runtimeconfig.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.pdb
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.StudentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentAPI.props
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentAPI.props
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentAPI.props
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\scopedcss\bundle\StudentAPI.styles.css
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.CopyComplete
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\refint\StudentAPI.dll
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.pdb
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.genruntimeconfig.cache
+C:\CSagarBabu\.Net-Training\Microservices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\ref\StudentAPI.dll
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\appsettings.json
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.exe
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.deps.json
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.runtimeconfig.json
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.dll
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.pdb
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.AssemblyReference.cache
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.AssemblyInfo.cs
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.StudentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentAPI.props
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentAPI.props
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentAPI.props
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\scopedcss\bundle\StudentAPI.styles.css
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.CopyComplete
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.dll
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\refint\StudentAPI.dll
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.pdb
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.genruntimeconfig.cache
+C:\Nidhin Manoj\MICRO\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\ref\StudentAPI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\appsettings.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.exe
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.deps.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.runtimeconfig.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\StudentAPI.pdb
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.AssemblyReference.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.AssemblyInfo.cs
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.StudentAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentAPI.props
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentAPI.props
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentAPI.props
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\scopedcss\bundle\StudentAPI.styles.css
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.csproj.CopyComplete
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\refint\StudentAPI.dll
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.pdb
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\StudentAPI.genruntimeconfig.cache
+C:\Nidhin Manoj\MicroServices\SchoolSMSAPI\StudentAPI\obj\Debug\net8.0\ref\StudentAPI.dll

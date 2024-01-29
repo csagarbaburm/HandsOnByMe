@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.exe
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.deps.json
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.runtimeconfig.json
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.dll
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\bin\Debug\net8.0\HandsOnClassesAndObjects.pdb
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.AssemblyInfo.cs
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.dll
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\obj\Debug\net8.0\refint\HandsOnClassesAndObjects.dll
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.pdb
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\obj\Debug\net8.0\HandsOnClassesAndObjects.genruntimeconfig.cache
+C:\Nidhin Manoj\C#\HandsOnClassesAndObjects\obj\Debug\net8.0\ref\HandsOnClassesAndObjects.dll

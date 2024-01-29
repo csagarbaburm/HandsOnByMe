@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function result()
+        {
+        let obj= document.getElementById('t1');
+        let name=obj.value;
+        document.getElementById('r1').innerText= 'Hello ' + name;
+        }
+    </script>
+</head>
+<body>
+    <table>
+
+    <tr>
+        <td>Enter the name:</td>
+        <td><input type="text" name="" id="t1"></td>
+            </tr>
+            <tr>
+                <td colspan="2" ><input type="button" value="Submit" onclick="result()" id=""></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <span id="r1"></span>
+                </td>
+            </tr>
+    </table>
+</body>
+</html>

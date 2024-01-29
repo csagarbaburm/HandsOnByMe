@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\C#\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.exe
+C:\Nidhin Manoj\C#\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.deps.json
+C:\Nidhin Manoj\C#\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.runtimeconfig.json
+C:\Nidhin Manoj\C#\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.dll
+C:\Nidhin Manoj\C#\HandsOnClassTypes\bin\Debug\net8.0\HandsOnClassTypes.pdb
+C:\Nidhin Manoj\C#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\C#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\C#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.AssemblyInfo.cs
+C:\Nidhin Manoj\C#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\C#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.dll
+C:\Nidhin Manoj\C#\HandsOnClassTypes\obj\Debug\net8.0\refint\HandsOnClassTypes.dll
+C:\Nidhin Manoj\C#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.pdb
+C:\Nidhin Manoj\C#\HandsOnClassTypes\obj\Debug\net8.0\HandsOnClassTypes.genruntimeconfig.cache
+C:\Nidhin Manoj\C#\HandsOnClassTypes\obj\Debug\net8.0\ref\HandsOnClassTypes.dll

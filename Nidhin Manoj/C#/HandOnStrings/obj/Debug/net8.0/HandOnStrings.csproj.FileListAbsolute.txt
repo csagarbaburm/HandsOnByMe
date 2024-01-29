@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\C#\HandOnStrings\obj\Debug\net8.0\HandOnStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\C#\HandOnStrings\obj\Debug\net8.0\HandOnStrings.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\C#\HandOnStrings\obj\Debug\net8.0\HandOnStrings.AssemblyInfo.cs
+C:\Nidhin Manoj\C#\HandOnStrings\obj\Debug\net8.0\HandOnStrings.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\C#\HandOnStrings\bin\Debug\net8.0\HandOnStrings.exe
+C:\Nidhin Manoj\C#\HandOnStrings\bin\Debug\net8.0\HandOnStrings.deps.json
+C:\Nidhin Manoj\C#\HandOnStrings\bin\Debug\net8.0\HandOnStrings.runtimeconfig.json
+C:\Nidhin Manoj\C#\HandOnStrings\bin\Debug\net8.0\HandOnStrings.dll
+C:\Nidhin Manoj\C#\HandOnStrings\bin\Debug\net8.0\HandOnStrings.pdb
+C:\Nidhin Manoj\C#\HandOnStrings\obj\Debug\net8.0\HandOnStrings.dll
+C:\Nidhin Manoj\C#\HandOnStrings\obj\Debug\net8.0\refint\HandOnStrings.dll
+C:\Nidhin Manoj\C#\HandOnStrings\obj\Debug\net8.0\HandOnStrings.pdb
+C:\Nidhin Manoj\C#\HandOnStrings\obj\Debug\net8.0\HandOnStrings.genruntimeconfig.cache
+C:\Nidhin Manoj\C#\HandOnStrings\obj\Debug\net8.0\ref\HandOnStrings.dll

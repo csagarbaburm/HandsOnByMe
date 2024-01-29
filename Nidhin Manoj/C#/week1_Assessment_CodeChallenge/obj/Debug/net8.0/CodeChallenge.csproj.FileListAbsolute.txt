@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\C#\CodeChallenge\bin\Debug\net8.0\CodeChallenge.exe
+C:\Nidhin Manoj\C#\CodeChallenge\bin\Debug\net8.0\CodeChallenge.deps.json
+C:\Nidhin Manoj\C#\CodeChallenge\bin\Debug\net8.0\CodeChallenge.runtimeconfig.json
+C:\Nidhin Manoj\C#\CodeChallenge\bin\Debug\net8.0\CodeChallenge.dll
+C:\Nidhin Manoj\C#\CodeChallenge\bin\Debug\net8.0\CodeChallenge.pdb
+C:\Nidhin Manoj\C#\CodeChallenge\obj\Debug\net8.0\CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\C#\CodeChallenge\obj\Debug\net8.0\CodeChallenge.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\C#\CodeChallenge\obj\Debug\net8.0\CodeChallenge.AssemblyInfo.cs
+C:\Nidhin Manoj\C#\CodeChallenge\obj\Debug\net8.0\CodeChallenge.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\C#\CodeChallenge\obj\Debug\net8.0\CodeChallenge.dll
+C:\Nidhin Manoj\C#\CodeChallenge\obj\Debug\net8.0\refint\CodeChallenge.dll
+C:\Nidhin Manoj\C#\CodeChallenge\obj\Debug\net8.0\CodeChallenge.pdb
+C:\Nidhin Manoj\C#\CodeChallenge\obj\Debug\net8.0\CodeChallenge.genruntimeconfig.cache
+C:\Nidhin Manoj\C#\CodeChallenge\obj\Debug\net8.0\ref\CodeChallenge.dll

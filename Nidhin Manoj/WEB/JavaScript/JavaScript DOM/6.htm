@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>paragraph 1</p>
+    <p>paragraph 2</p>
+    <p>paragraph 3</p>
+    <p>paragraph 4</p>
+    <p>paragraph 5</p>
+
+    <script>
+   let items = document.getElementsByTagName('p');
+   obj = items[2];
+   obj.style.color="blue";
+   items[4].style.color="violet";
+//    alert(obj.innerText)
+//    for(let k=0;k<items.length;k++)
+//       alert(items[k].innerText);
+for (let k of items)
+alert( k.innerText);
+    </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.exe
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.deps.json
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.runtimeconfig.json
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.dll
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\bin\Debug\net8.0\HandsOnTypeConversion.pdb
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.AssemblyInfo.cs
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.dll
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\obj\Debug\net8.0\refint\HandsOnTypeConversion.dll
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.pdb
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\obj\Debug\net8.0\HandsOnTypeConversion.genruntimeconfig.cache
+C:\Nidhin Manoj\C#\HandsOnTypeConversion\obj\Debug\net8.0\ref\HandsOnTypeConversion.dll

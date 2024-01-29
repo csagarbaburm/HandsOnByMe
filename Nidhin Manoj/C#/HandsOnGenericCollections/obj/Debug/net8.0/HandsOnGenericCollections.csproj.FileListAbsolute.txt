@@ -1,0 +1,14 @@
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\bin\Debug\net8.0\HandsOnGenericCollections.exe
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\bin\Debug\net8.0\HandsOnGenericCollections.deps.json
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\bin\Debug\net8.0\HandsOnGenericCollections.runtimeconfig.json
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\bin\Debug\net8.0\HandsOnGenericCollections.dll
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\bin\Debug\net8.0\HandsOnGenericCollections.pdb
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\obj\Debug\net8.0\HandsOnGenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\obj\Debug\net8.0\HandsOnGenericCollections.AssemblyInfoInputs.cache
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\obj\Debug\net8.0\HandsOnGenericCollections.AssemblyInfo.cs
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\obj\Debug\net8.0\HandsOnGenericCollections.csproj.CoreCompileInputs.cache
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\obj\Debug\net8.0\HandsOnGenericCollections.dll
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\obj\Debug\net8.0\refint\HandsOnGenericCollections.dll
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\obj\Debug\net8.0\HandsOnGenericCollections.pdb
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\obj\Debug\net8.0\HandsOnGenericCollections.genruntimeconfig.cache
+C:\Nidhin Manoj\C#\HandsOnGenericCollections\obj\Debug\net8.0\ref\HandsOnGenericCollections.dll
