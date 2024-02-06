@@ -4438,11 +4438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
       "projectName": "BookAPI-react-assignment",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\BookAPI-react-assignment.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\BookAPI-react-assignment\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\HandsOnByMe\\BookAPI-react-assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
